@@ -13,7 +13,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ============= НАСТРОЙКИ =============
 BOT_TOKEN = "8787213994:AAGqrKHvOQ2sB2JlASNnYu9OHermLuiwAnc"
 ADMIN_ID = 7160556558
-STAR_RATE = 1.5
+STAR_RATE = 1.4
 MIN_STARS = 50
 DB_FILE = "orders.db"
 
